@@ -11,5 +11,8 @@ Kimberly Santiago
   + email: kasantia@usc.edu
   + github account: kasantia
 
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
+
 ![alt text](https://dribbble.s3.amazonaws.com/users/2008/screenshots/893577/dribbble-arctocat.png "Our favorite octocat!")
 
